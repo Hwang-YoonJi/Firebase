@@ -17,5 +17,5 @@ npm i react-native-onboarding-swiper
 ```
 
 ```bash
-npm i @react-native-community/async-storage
+npm install @react-native-async-storage/async-storage
 ```
